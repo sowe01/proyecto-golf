@@ -1,6 +1,6 @@
 # proyecto-golf
 ranking golfistas
-![golfPGA](golfPGA.jpg) 
+![golfPGA](golfPGA.jpeg) 
 golfPGA.jpg
 ## importar archivo csv
 pga_df= pd.read_csv('./input/PGA_Data_Historical.csv')
